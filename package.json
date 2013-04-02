@@ -1,0 +1,16 @@
+{
+  "name": "app_boilerplate",
+  "version": "0.0.0",
+  "description": "",
+  "repository": "",
+  "author": "Austin Brown",
+  "dependencies": {
+    "grunt": "",
+    "grunt-contrib-coffee": "",
+    "grunt-contrib-jshint": "",
+    "grunt-contrib-jst": "",
+    "grunt-contrib-less": "",
+    "grunt-contrib-uglify": "",
+    "grunt-contrib-watch": ""
+  }
+}
